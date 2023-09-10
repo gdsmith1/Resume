@@ -27,7 +27,7 @@ Chico, CA 95926
    </td>
   </tr>
   <tr>
-   <td><strong>?</strong>
+   <td><strong></strong>
 <h1>Projects</h1>
 
 
@@ -64,7 +64,7 @@ Chico, CA 95926
    </td>
   </tr>
   <tr>
-   <td><strong>?</strong>
+   <td><strong></strong>
 <h1>Education</h1>
 
 
@@ -93,7 +93,7 @@ Chico, CA 95926
    </td>
   </tr>
   <tr>
-   <td><strong>?</strong>
+   <td><strong></strong>
 <h1>Skills</h1>
 
 
@@ -115,7 +115,7 @@ Chico, CA 95926
    </td>
   </tr>
   <tr>
-   <td><strong>?</strong>
+   <td><strong></strong>
 <h1>General Experience</h1>
 
 
