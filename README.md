@@ -1,7 +1,8 @@
+
 <table>
   <tr>
    <td>
-<h1>Gibson Smith</h1>
+<h2>Gibson Smith</h2>
 
 >Computer Science Undergraduate - Junior
    </td>
@@ -9,7 +10,8 @@
 
 
 
-<h1>Gibson Smith</h1>
+
+<h2>Gibson Smith</h2>
 
 
 <p>
@@ -27,65 +29,25 @@ Chico, CA 95926
    </td>
   </tr>
   <tr>
-   <td><strong></strong>
-<h1>Projects</h1>
+   <td><strong>ㅡ</strong>
+<h2>Education</h2>
 
 
    </td>
    <td>
 
 
-
-<h2>Wiki Artist Scraper<em> - June 2023</em></h2>
-
-
-<ul>
-
-<li>A recursive scraping algorithm to search for the most relevant musical artists to the original page.
-
-<li>Used the Beautiful Soup 4 package in Python to search for relevant data based on the patterns I researched in Wikipedia pages' HTML.
-
-<li>My first project written exclusively in Python, and my first experience with HTML.
-
-<h2>Skyrim Knapsack Algorithm<em> - August 2023</em></h2>
+<h3>California State University, Chico<em> - Expected to Graduate 2025</em></h3>
 
 
-<ul>
-
-<li>A dynamic programming algorithm set to apply to the inventory system in Skyrim: Special Edition.  
-
-<li>Written in C++, is able to maximize the value of a player's inventory within the restrictions of their weight limit.
-
-<li>Uses a modified version of my Wikipedia scraper to create a database of all items in the game, based on the Fandom Wiki for the game.
-</li>
-</ul>
-</li>
-</ul>
-   </td>
-  </tr>
-  <tr>
-   <td><strong></strong>
-<h1>Education</h1>
-
-
-   </td>
-   <td>
-
-
-
-<h2>California State University, Chico<em> - Expected to Graduate 2025</em></h2>
-
-
-<h3>AUGUST 2021 - PRESENT</h3>
+<h4>AUGUST 2021 - PRESENT</h4>
 
 
 <ul>
 
 <li>Cumulative GPA: 3.697
 
-<li>Pursuing a Bachelor's Degree in Computer Science.  Taking a minimum of 14 units per semester.
-
-<li>Dean's List Spring 2022
+<li>Bachelor’s Degree in Computer Science
 
 <li>Member of Association for Computing Machinery
 </li>
@@ -93,8 +55,11 @@ Chico, CA 95926
    </td>
   </tr>
   <tr>
-   <td><strong></strong>
-<h1>Skills</h1>
+   <td>
+<h2>ㅡ</h2>
+
+
+<h2>Skills</h2>
 
 
    </td>
@@ -103,39 +68,72 @@ Chico, CA 95926
 
 <ul>
 
-<li>Programming Languages: C++, C, ARM RISC Assembly, Go, Python, HTML, Java
+<li>Programming Languages: C++, C, ARM RISC Assembly, Go, Python, HTML, Java, Dart (Flutter framework)
+
+<li>Data Analysis: SQL, Excel, R with Rstudio, Jupyter, and Hadoop
 
 <li>Creating and utilizing cloud servers to host databases and remote testing
 
-<li>Experience with SQL, Excel, and Hadoop data analysis
-
 <li>Created methods to benchmark and compare complex programs
+
+<li>Network programming in C and analysis with Wireshark
 </li>
 </ul>
    </td>
   </tr>
   <tr>
-   <td><strong></strong>
-<h1>General Experience</h1>
+   <td><strong>ㅡ</strong>
+<h2>Projects</h2>
 
 
    </td>
    <td>
 
 
-<h2>Staples,  Pacific Beach, San Diego, CA<em> - Sales Associate</em></h2>
 
 
-<h3>JULY 2022 - AUGUST 2022</h3>
+<h3>Get ‘Em!<em> - December 2023</em></h3>
 
 
 <ul>
 
-<li>Worked as a part of a team, with customers, and independently during the Back to School season.
+<li>Group project with two of my classmates from my our Web and Mobile Development class.
 
-<li>Primarily stocking items and backup cashiering.
+<li>An Android app based on the popular game Pokemon Go! made with the Flutter framework.
+
+<li>Uses location services, a stateless database, and randomly generating events to mimic Pokemon Go!’s gameplay
+
+<li>Our first experience using GitHub version control in a group setting
+</li>
+</ul>
+
+<h3>Wiki Artist Scraper<em> - June 2023</em></h3>
+
+
+<ul>
+
+<li>A recursive scraping algorithm to search for the most relevant musical artists to the original page.
+
+<li>Used the Beautiful Soup 4 package in Python to search for relevant data based on the patterns I researched in Wikipedia pages’ HTML.
+
+<li>My first project written exclusively in Python, and my first experience with HTML.
+
+</li>
+</ul>
+
+<h3>Skyrim Knapsack Algorithm<em> - August 2023</em></h3>
+
+
+<ul>
+
+<li>A dynamic programming algorithm set to apply to the inventory system in Skyrim: Special Edition.  
+
+<li>Written in C++, is able to maximize the value of a player’s inventory within the restrictions of their weight limit.
+
+<li>Uses a modified version of my Wikipedia scraper to create a database of all items in the game, based on the Fandom Wiki for the game.
 </li>
 </ul>
    </td>
   </tr>
 </table>
+
